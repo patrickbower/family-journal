@@ -5,4 +5,4 @@ categories: jekyll update
 ---
 This is my first post right ?
 
-And this is text from a phone.
+And this is text from a phone. And a bit more.
