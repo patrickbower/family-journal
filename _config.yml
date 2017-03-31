@@ -5,13 +5,13 @@ plugins_dir:  _plugins
 layouts_dir:  _layouts
 data_dir:     _data
 includes_dir: _includes
-paginate: 5
+# paginate: 5
 collections:
   posts:
-    output:   true
+    output: true
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 # Handling Reading
 safe:         false
