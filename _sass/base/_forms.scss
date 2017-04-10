@@ -1,0 +1,21 @@
+input,
+select,
+textarea,
+button
+{
+    font-family: inherit;
+    font-size: 100%;
+    box-sizing: border-box;
+    background-clip: padding-box;
+    border-radius: 0;
+    -webkit-appearance: none;
+    outline: 0;
+    vertical-align: middle;
+    border: none;
+    background: #f2f2f2;
+}
+
+fieldset
+{
+    border: none;
+}
