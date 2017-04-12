@@ -1,0 +1,19 @@
+{
+  "name": "family-journal",
+  "version": "1.0.0",
+  "description": "A fun project to document time together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickbower/family-journal.git"
+  },
+  "author": "Patrick Bower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickbower/family-journal/issues"
+  },
+  "homepage": "https://github.com/patrickbower/family-journal#readme"
+}
