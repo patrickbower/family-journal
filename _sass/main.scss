@@ -4,7 +4,6 @@
 @import "settings/z-index";
 @import "settings/fonts";
 @import "settings/typography";
-@import "settings/animation-timimg";
 
 // Tools: Functions and mixins
 @import "tools/mixins";
@@ -40,7 +39,6 @@
 
 // Trumps: Helpers and overrides, e.g. .float-left { float:left !important;}
 @import "trumps/layout";
-@import "trumps/animations";
 @import "trumps/visibility";
 @import "trumps/space";
 @import "trumps/typography";
