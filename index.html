@@ -11,16 +11,15 @@ title: Family Journal
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/css/styles.css">
 </head>
-<body>
-  <div class="body-bg">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm">
-          <h1>Family Journal</h1>
-        </div>
-      </div>
-    </div>
-    {% include posts.html %}
+<body class="site">
+  <div class="site__bg">
+    {% include header.html %}
+    <main class="site__content">
+      {% include posts.html %}
+    </main>
+    <footer>
+      Footer
+    </footer>
   </div>
 </body>
 </html>
