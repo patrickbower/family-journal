@@ -32,10 +32,13 @@
 
 // Components
 // ~ Styled objects
-// TODO ~ add type sizes
+@import "components/background";
 @import "components/typeography";
 
 // ~ Pieces of UI
+@import "components/body";
+@import "components/header";
+@import "components/footer";
 
 // Trumps: Helpers and overrides, e.g. .float-left { float:left !important;}
 @import "trumps/layout";
